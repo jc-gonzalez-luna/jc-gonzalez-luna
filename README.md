@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Juan Carlos Gonzalez Luna  
+# Hi, I'm Juan Carlos Gonzalez Luna  
 ### Software Engineer — Backend • Full‑Stack • Android  
 Santa Clarita, CA
 
@@ -6,7 +6,7 @@ I'm a WGU Software Engineering graduate with hands-on experience building backen
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 **Backend:** Java, Spring Boot, REST APIs, SQL  
 **Frontend:** Angular, TypeScript, HTML/CSS  
 **Mobile:** Kotlin, Android Studio, Jetpack Compose, Room, MVVM  
@@ -15,24 +15,9 @@ I'm a WGU Software Engineering graduate with hands-on experience building backen
 
 ---
 
-## 📂 Projects
+##  Projects
 
-### 🧩 Backend CRM System  
-**Tech:** Java, Spring Boot, SQL, REST APIs, Angular  
-A full CRM backend with complete API functionality, database persistence, validation, and Angular integration.
-
-**Features:**  
-- RESTful API endpoints  
-- SQL persistence  
-- Session tracking  
-- Error handling  
-- Angular frontend integration  
-
-🔗 **GitHub:** (add link)
-
----
-
-### 🌴 Vacation Planner Android App  
+###  Vacation Planner Android App  
 **Tech:** Kotlin, Jetpack Compose, Room, MVVM  
 A mobile app for planning vacations with offline support and a modern Compose UI.
 
@@ -42,16 +27,15 @@ A mobile app for planning vacations with offline support and a modern Compose UI
 - Compose UI  
 - MVVM architecture  
 - Offline persistence  
-
-🖼️ **Thumbnail:** *(insert your generated icon)*  
-🔗 **GitHub:** (add link)  
-🔗 **Live Demo:** (static site link)
+ 
+ **GitHub:** https://github.com/jc-gonzalez-luna/vacation-planner-android-app  
+ **Live Demo:** http://vacation-planner-apk.s3-website.us-east-2.amazonaws.com
 
 ---
 
 
 
-## 💼 Experience
+##  Experience
 **Back of House Manager — Tomato Joe’s Pizza & Taps**  
 Workflow optimization, inventory management, staff training, leadership.
 
@@ -60,11 +44,11 @@ CRM system, Vacation Planner app.
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 - AWS Cloud Practitioner
 
 ---
 
-## 📬 Contact
-📧 Email: jc.gonzalez.luna@outlook.com  
-🔗 www.linkedin.com/in/juan-carlos-gonzalez-luna-4bb226352  
+##  Contact
+ Email: jc.gonzalez.luna@outlook.com  
+ www.linkedin.com/in/juan-carlos-gonzalez-luna-4bb226352  
